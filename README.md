@@ -1,0 +1,2 @@
+# glazeWM
+glaze settings
