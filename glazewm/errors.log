@@ -1,0 +1,18 @@
+[2m2024-10-17T11:00:54.474807Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-17T11:01:27.197034Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
+[2m2024-10-17T11:01:56.373305Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-17T11:04:46.179296Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-17T12:15:10.804157Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-17T12:23:42.531024Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-17T12:29:01.115734Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-17T12:30:11.299199Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-17T12:30:56.370812Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-17T12:43:01.171843Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[26]: missing field `bindings` at line 205 column 5
+[2m2024-10-17T12:44:36.800808Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '0' doesn't exist or is already active.
+[2m2024-10-17T12:44:38.109234Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '0' doesn't exist or is already active.
+[2m2024-10-17T12:44:51.156061Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '0' doesn't exist or is already active.
+[2m2024-10-17T12:47:35.657279Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[38]: duplicate field `bindings` at line 240 column 5
+[2m2024-10-17T12:47:37.560260Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[38]: duplicate field `bindings` at line 240 column 5
+[2m2024-10-17T12:48:09.361367Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[47]: missing field `bindings` at line 260 column 5
+[2m2024-10-17T13:00:48.341528Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-17T22:43:54.957148Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
